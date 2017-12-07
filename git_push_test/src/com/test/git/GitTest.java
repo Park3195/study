@@ -3,7 +3,7 @@ package com.test.git;
 public class GitTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("이야~~ 내일은 삼겹살 무제한...!!!");
 
 	}
 
